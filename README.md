@@ -2,13 +2,13 @@
 Assembly implementation of basic pString functions.
 A project from Computer Structure course in my second year in Bar-Ilan university
 
-1. [Abstract](#abstract)
-2. [Project Files:](#files)
+1. [Abstract](#Abstract)
+2. [Project Files:](#Project Files)
     - [run_main.s](#run_main.s)
     - [func_select](#func_select.s)
     - [pstring.s](#pstring.s)
 
-## abstract
+## Abstract
 We were assigned a task to implement basic functions regarding pStrings in the assembly language, as described in pstring.h:
 * char pstrlen(Pstring* pstr) - return the length of a pString
 * Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar) - replace every occourance of the oldChar in the pString with the newChar given.
@@ -25,7 +25,7 @@ typedef struct{
 }pString;
 '''
 
-## files
+## Project Files
 # run_main.s
 The engine of the project. We are reciveing two pStrings from the user, allocating memory on the stack frame.
 Also we scan an int from the user, which will be used as a case for our switch case implementation in func_select.s
