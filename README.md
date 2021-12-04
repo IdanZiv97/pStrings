@@ -3,7 +3,7 @@ Assembly implementation of basic pString functions.
 A project from Computer Structure course in my second year in Bar-Ilan university
 
 1. [Abstract](#abstract)
-2.[Project Files:](#files)
+2. [Project Files:](#files)
   - [run_main.s](#run_main.s)
   - [func_select](#func_select.s)
   - [pstring.s](#pstring.s)
