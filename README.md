@@ -3,10 +3,10 @@ Assembly implementation of basic pString functions.
 A project from Computer Structure course in my second year in Bar-Ilan university
 
 1. [Abstract](#abstract)
-2. [Project Files](#files)
-    2.1 [run_main.s](#run_main.s)
-    2.2 [func_select](#func_select.s)
-    2.3 [pstring.s](#pstring.s)
+2. [Project Files:](#files)
+  2.1 [run_main.s](#run_main.s)
+  2.2 [func_select](#func_select.s)
+  2.3 [pstring.s](#pstring.s)
 
 ## abstract
 We were assigned a task to implement basic functions regarding pStrings in the assembly language, as described in pstring.h:
@@ -38,7 +38,7 @@ First we make sure to clear the offset between the user's choice and the cases o
 Each choice from the user can result in two outcomes: invoking a proper function from pstring.s or a default case which will print the prompt 'invalid option!'
 
 # pstring.s
-Assembly implementation of the functions declared in pstring.h
+Assembly implementation of the functions declared in pstring.h file
 
 
 
