@@ -2,11 +2,11 @@
 Assembly implementation of basic pString functions.
 A project from Computer Structure course in my second year in Bar-Ilan university
 
-*[Abstract](#abstract)
-*[Project Files:](#files)
-  *[run_main.s](#run_main.s)
-  *[func_select](#func_select.s)
-  *[pstring.s](#pstring.s)
+1. [Abstract](#abstract)
+2.[Project Files:](#files)
+  - [run_main.s](#run_main.s)
+  - [func_select](#func_select.s)
+  - [pstring.s](#pstring.s)
 
 ## abstract
 We were assigned a task to implement basic functions regarding pStrings in the assembly language, as described in pstring.h:
