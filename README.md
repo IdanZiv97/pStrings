@@ -1,12 +1,6 @@
 # pStrings Project 
 Assembly implementation of basic pString functions.
-A project from Computer Structure course in my second year in Bar-Ilan university
-
-1. [Abstract](#Abstract)
-2. [Project Files:](#Project Files)
-    - [run_main.s](#run_main.s)
-    - [func_select](#func_select.s)
-    - [pstring.s](#pstring.s)
+A project from Computer Structure course in my second year at Bar-Ilan university
 
 ## Abstract
 We were assigned a task to implement basic functions regarding pStrings in the assembly language, as described in pstring.h:
